@@ -25,4 +25,5 @@ rm -rf build && mkdir -p build && \
 
 * https://github.com/KDAB/KDBindings
 * https://github.com/KDAB/KDBindings/tree/main/examples
+* https://www.youtube.com/watch?v=HTctgerx_m8&t=30s
 * https://docs.kdab.com/kdbindings/latest/getting-started/
